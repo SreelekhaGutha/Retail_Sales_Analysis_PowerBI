@@ -107,6 +107,9 @@ Compared profit across sub-categories and identified both high-profit and loss-m
 ---
 
 ## 📈 Power BI Dashboard
+### Dashboard Preview
+
+![Retail Sales Performance Dashboard](dashboard.png)
 
 An interactive Power BI dashboard was developed to visualize the results.
 
